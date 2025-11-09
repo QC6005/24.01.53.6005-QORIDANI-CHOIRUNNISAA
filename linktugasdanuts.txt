@@ -1,0 +1,7 @@
+link northwind
+https://qori-wms-uts.rf.gd/northwind/records/customers
+
+link tugas uts
+https://qori-wms-uts.rf.gd/login
+username: admin_qori
+password: admin123
